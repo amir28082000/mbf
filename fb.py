@@ -26,7 +26,7 @@ def baner():
 {B}╔═╗{W}┌─┐┌─┐┌─┐┌┐ ┌─┐┌─┐┬┌─   {B}╔╦╗{W}┌┐ ┌─┐
 {B}╠╣ {W}├─┤│  ├┤ ├┴┐│ ││ │├┴┐{R}───{B}║║║{W}├┴┐├┤ 
 {B}╚  {W}┴ ┴└─┘└─┘└─┘└─┘└─┘┴ ┴   {B}╩ ╩{W}└─┘└  ''')
-    print('' + Back.BLUE + Fore.BLACK + '        Creator : FahmiApz         \033[00m')
+    print('' + Back.BLUE + Fore.BLACK + '        Creator : AMIR'JI         \033[00m')
     print()
 
 def masuk():
@@ -218,7 +218,10 @@ def pilih_menu():
                          str(x) + '123',
                          str(x) + '1234',
                          str(x) + '12345',
-                         str(x) + '123456'
+                         str(x) + '123456',
+                         str(x) + '321',
+                         str(x) + '4321',
+                          
                          ]
                     litpas.append('Sayang')
                     litpas.append('Bangsat')
